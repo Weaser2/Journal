@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Monocraft;
+    src: url(Monocraft.ttf)
+}
+
+* {
+    font-family: Monocraft;
+    font-size: 20px;
+    background-color: rgb(25, 23, 36);
+    color: rgb(224, 222, 244);
+    margin: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(235, 111, 146);
+}
+
+.date {
+    font-size: 22px;
+    color: rgb(246, 193, 119);
+}
+
+a {
+    color: rgb(235, 188, 186);
+    text-decoration: underline;
+}
+
+.journal-subheading {
+    font-size: 22px;
+    color: rgb(246, 193, 119);
+}
